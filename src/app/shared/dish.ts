@@ -1,5 +1,4 @@
 import { Comment } from './comment';
-import { from } from 'rxjs';
 
 export class Dish {
     id: string;
